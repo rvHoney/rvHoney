@@ -3,7 +3,7 @@
 🏫 IT Student (17yo).  
 🖥️ Used to **Riot** and **discord.py** __API__.  
 🔧 Discord bot developper.  
-📖 Knowledges : **C** / **Python**.  
+📖 Knowledges : **HTML5** / **CSS3** / **C** / **C++** / **Python**.  
 
 🏆 Currently :
 - 🔭 I’m currently working on discord bot code executor.
