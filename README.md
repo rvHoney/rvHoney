@@ -1,5 +1,5 @@
 ## Hi there 👋
-🏫 IT Student (18yo).  
+🏫 IT Student.  
 🖥️ Used to **Riot** and **discord.py** __API__.  
 🔧 Discord bot developper.  
 
