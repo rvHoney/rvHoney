@@ -1,6 +1,6 @@
 ## Hi there 👋
 🏫 IT Student.  
-🖥️ Used to **Riot** and **discord.py** __API__.  
+🖥️ Used to **Riot** and **Pycord** __API__.  
 🔧 Discord bot developper.  
 
 ### ⚡ Tech stack
